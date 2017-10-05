@@ -43,3 +43,7 @@ aside {
 h2 ol li {
   list-style-type: disc;
 }
+
+img {
+  width: 100%;
+}
