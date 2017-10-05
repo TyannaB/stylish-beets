@@ -5,10 +5,15 @@ html {
   font-weight: normal;
 }
 
+h1 {
+  font-size: 1.5rem;
+}
+
 title {
   color: #3f1622;
   font-family: "PT Sans", sans-serif;
   font-weight: bold;
+  font-size: 1rem;
 }
 
 a {
@@ -33,6 +38,7 @@ p {
 
 aside {
   font-size: 1.125rem;
+  font-weight: bold;
 }
 
 .chrissmall {
@@ -46,4 +52,17 @@ h2 ol li {
 
 img {
   width: 100%;
+}
+
+figure:first-child {
+  font-size: 1.125rem;
+  font-weight: bold;
+}
+
+p:first-child{
+  font-weight: bold;
+}
+
+blockquote p {
+  font-size: 1.125rem;
 }
