@@ -37,7 +37,9 @@ p {
 }
 
 aside {
-  font-size: .8rem;
+  style=font-size: 2rem;
+  font-weight: bold;
+  line-height: 2;
 }
 
 .chrissmall {
@@ -54,8 +56,7 @@ img {
 }
 
 figure:first-child {
-  font-size: 1.125rem;
-  font-weight: bold;
+  font-size: .8rem;
 }
 
 p:first-child {
